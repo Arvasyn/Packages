@@ -4,12 +4,12 @@
 # Contributor: Tom Gundersen <teg@jklm.no>
 
 pkgname=filesystem
-pkgver=2025.06.02
+pkgver=2025.06.26
 pkgrel=1
 pkgdesc='A modified version of the Arch Linux filesystem for Aeris.'
 arch=('any')
 license=('GPL-3.0-or-later')
-url='https://archlinux.org'
+url='https://arvasyn.com/'
 depends=('iana-etc')
 provides=('filesystem')
 replaces=('filesystem')
@@ -76,7 +76,7 @@ sha256sums=('01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b'
             '785c6c3614a27ae6115a27c1ca55bbf333654780997c4ba7e181172b021d1bf3'
             '153d848ed51f2774e5a1578ea08e0c8586ecc63f7562697e035b84247edb2f82'
             'c8ee7a9faf798caab178ec51afae4146f1efd8a716b7acedf28345b6c75f9697'
-            '6468924bfd98e3b8e066b291329fbb2391bc8ae6eee6455818674056bcc86871'
+            '0444d6f2fe5e1704ed01bcb3c619e1d4cf4cafa9aabf60fa3f1b5bd26f6e1ce7'
             '13e2783884783ef46b8345fbcdf7880f0414c0a9c42e2b2fc6a2b048cbc2d86e'
             '1979ee468511e65109234d9ab7f26e84f0f5f2a96c3ce18740d145049cfa43f4'
             '5557d8e601b17a80d1ea7de78a9869be69637cb6a02fbfe334e22fdf64e61d4c'
