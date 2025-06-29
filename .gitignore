@@ -1,4 +1,7 @@
 src/
 pkg/
-*.pkg.tar.zst
-
+lsb-samples/
+*.tar.zst
+*.tar.zst.old
+*.db
+*.files

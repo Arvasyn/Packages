@@ -1,0 +1,5 @@
+LSB_VERSION="AERIS-RUNE-x86_64:DEVELOPER"
+DISTRIB_ID="aeris"
+DISTRIB_DESCRIPTION="Aeris is an Arch-based Linux distribution focused on delivering a simplified and user-friendly experience. It aims to make Linux approachable and easy to use for everyone."
+DISTRIB_RELEASE="developer"
+DISTRIB_CODENAME="rune"
